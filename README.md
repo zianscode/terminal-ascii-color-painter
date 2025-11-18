@@ -10,7 +10,6 @@ Setiap pixel gambar akan digantikan oleh karakter acak (huruf/angka/simbol) namu
 * Mengubah gambar menjadi ASCII art berwarna
 * Menggunakan karakter acak untuk membentuk gambar
 * Bisa mengatur lebar output
-* Mendukung animasi proses "melukis" gambar di terminal
 * Mendukung hampir semua format gambar (JPG, PNG, JPEG, dsb.)
 
 ---
