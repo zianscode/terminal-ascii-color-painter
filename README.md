@@ -20,7 +20,7 @@ Setiap pixel gambar akan digantikan oleh karakter acak (huruf/angka/simbol) namu
 1. Clone project atau download source code
    
 ```bash
-git clon https://github.com/fajarfauzian/terminal-ascii-color-painter.git
+git clone https://github.com/fajarfauzian/terminal-ascii-color-painter.git
 ```
 ```bash
 cd terminal-ascii-color-painter
