@@ -18,6 +18,13 @@ Setiap pixel gambar akan digantikan oleh karakter acak (huruf/angka/simbol) namu
 ## **📦 Instalasi**
 
 1. Clone project atau download source code
+   
+```bash
+git clon https://github.com/fajarfauzian/terminal-ascii-color-painter.git
+```
+```bash
+cd terminal-ascii-color-painter
+```
 2. Install dependensi:
 
 ```bash
@@ -47,5 +54,3 @@ ahdj2*&as...##...
 ```
 
 ---
-
-Kalau mau, saya bisa buatin README yang lebih lengkap, versi markdown bagus, atau sekaligus generate file `README.md`-nya!
