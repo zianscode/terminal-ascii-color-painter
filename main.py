@@ -4,7 +4,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), 'utils'))
 
 from utils.image_loader import load_and_resize_image
-from utils.animation import typing_animation, show_loading_message, show_completion_message
+from utils.animation import artistic_animation, show_loading_message, show_completion_message
 
 def main():
     try:
@@ -16,7 +16,7 @@ def main():
         
         show_loading_message(image.size[0], image.size[1])
         
-        typing_animation(image)
+        artistic_animation(image)
         
         show_completion_message()
         
